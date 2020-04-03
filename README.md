@@ -9,6 +9,10 @@ Cards can be moved and grouped together,
 
 ### Badges
 
+### Visuals
+[Visit this Site](#)
+![Screenshot of Site](#)
+
 ### Installation
 Git clone the repository.  
 Go to server.js folder and "npm install" to install the required dependencies.  
@@ -23,12 +27,9 @@ MongoDB / MySQL
 ### Contributing
 
 ### Authors
-Martin Hargett | [GitHub](https://github.com/MHargett23),  
-Alex Stiles | [GitHub](https://github.com/kffl3496),  
-Owen Edwards | [GitHub](https://github.com/Ivyparade),  
+Martin Hargett | [GitHub](https://github.com/MHargett23)  
+Alex Stiles | [GitHub](https://github.com/kffl3496)  
+Owen Edwards | [GitHub](https://github.com/Ivyparade)  
 Zachary Meadows | [GitHub](https://github.com/zachmdws)
 
 ### License
-
-[Visit this Site](#)
-![Screenshot of Site](#)
