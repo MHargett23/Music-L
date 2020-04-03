@@ -1,31 +1,30 @@
-### Music Link
+## Music Link
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+### Description
+When a user comes to our site, they are asked to enter login information, or sign up to make a profile.  
+This information includes name, age, city, country, and instrument that they play.  
+They then can see a card with all of this information on it.  
+Cards can be moved and grouped together, 
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+### Badges
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+### Installation
+Git clone the repository.  
+Go to server.js folder and "npm install" to install the required dependencies.  
+Go to root directory and "npm start" to start client.
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+### Usage
+React
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+### Contributing
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+### Authors
+Martin Hargett | [GitHub](https://github.com/MHargett23), 
+Alex Stiles | [GitHub](https://github.com/kffl3496), 
+Owen Edwards | [GitHub](https://github.com/Ivyparade), 
+Zachary Meadows | [GitHub](https://github.com/zachmdws)
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
+### License
 
 [Visit this Site](#)
 ![Screenshot of Site](#)
