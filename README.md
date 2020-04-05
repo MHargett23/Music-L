@@ -30,8 +30,6 @@ Express.js
 Node.js  
 MongoDB / MySQL
 
-### License
-
 ### Contributors
 
 ### Authors
@@ -40,8 +38,10 @@ Alex Stiles | [GitHub](https://github.com/kffl3496)
 Owen Edwards | [GitHub](https://github.com/Ivyparade)  
 Zachary Meadows | [GitHub](https://github.com/zachmdws)
 
+### Visuals
+![Screenshot of Site](#)
+
 ### Link
 [Visit this Site](#)
 
-### Visuals
-![Screenshot of Site](#)
+### License
