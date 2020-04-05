@@ -1,5 +1,15 @@
 # Music Link App
 
+## Table of contents
+
+* [Description](#description) 
+* [Installation](#installation)  
+* [Usage](#usage)  
+* [License](#license)  
+* [Contributors](#contributors)  
+* [Link](#link)  
+* [Visuals](#visuals)  
+
 ### Description
 When a user comes to our site, they are asked to enter information.  
 This information includes name, age, and instrument that they play.  
@@ -17,6 +27,10 @@ React
 Express.js  
 Node.js  
 MongoDB / MySQL
+
+### License
+
+### Contributors
 
 ### Authors
 Martin Hargett | [GitHub](https://github.com/MHargett23)  
