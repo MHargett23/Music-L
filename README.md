@@ -4,21 +4,23 @@
 * [Description](#description)  
 * [Installation](#installation)  
 * [Usage](#usage)  
+* [License](#license)  
+* [Link](#link)  
 * [Contributors](#contributors)  
 * [Authors](#authors)  
-* [Links](#links)  
 * [Visuals](#visuals)  
-* [License](#license)  
+
 
 ### Description
 When a user comes to our site, they are asked to enter information.  
 This information includes name, age, and instrument that they play.  
 They then can see a card with all of this information on it.  
 Automatically pairs up with third party API.  
-Cards can be moved and grouped together,  
+Cards can be moved and grouped together  
 
 It's essentially a forum that allows users to create music notation sheets through an npm that is then printed on the screen they can send to each other (along with some other features).
 If the music notation part proves too difficult I had a backup idea of a karaoke database list that is arranged by artist/name/song/id number that a user can add onto through the forum.
+-Alex  
 
 ### Installation
 Git clone the repository.  
