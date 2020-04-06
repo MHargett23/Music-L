@@ -4,10 +4,11 @@
 * [Description](#description) 
 * [Installation](#installation)  
 * [Usage](#usage)  
-* [License](#license)  
 * [Contributors](#contributors)  
-* [Link](#link)  
+* [Authors](#authors)  
+* [Links](#links)  
 * [Visuals](#visuals)  
+* [License](#license)  
 
 ### Description
 When a user comes to our site, they are asked to enter information.  
